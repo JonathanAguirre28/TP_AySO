@@ -1,1 +1,2 @@
 vagrant=vagrant
+memoria base: 2048mb, procesadores: 2, orden de arranque: disquete, optica, disco duro, Aceleracion: Paginacion anidada, PAE/NX,Ṕaravirtualizacion KVM
