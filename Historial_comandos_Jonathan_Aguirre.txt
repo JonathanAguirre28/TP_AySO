@@ -1,0 +1,16 @@
+cd repogit/TP_AySO/
+git commit -m "ADD: comando para capturar y analizar el trafico de red"
+git add .
+git commit -m "ADD: comando para capturar y analizar el trafico de red"
+cat <<EOF >> README.md
+Alumno: Jonathan Aguirre
+Division: 315
+Turno: Noche
+EOF
+
+cat README.md
+git add README.md
+git commit -m "ADD: Información del alumno en el README.md"
+git add README.md
+git commit -m "docs: agregar información del alumno al README.md"
+history -a
